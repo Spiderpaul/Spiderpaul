@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <h1 align="center">Hola, soy `Paul Lugo` 👋</h1>
+</div>
 
-<!--
-**Spiderpaul/Spiderpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![pau](https://github.com/Spiderpaul/Spiderpaul/assets/87204262/a5d79128-2fdb-4525-b79f-971aa4932e38)
 
-Here are some ideas to get you started:
+<h3>Sobre mí</h3>
+<p>Soy desarrollador de software con conocimiento en tecnologías como:</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Git y GitHub</li>
+</ul>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Algunos proyectos:</h3>
+
+https://github.com/Spiderpaul/Spiderpaul/assets/87204262/c01ab0b0-caef-4c06-a526-39918503d781
+
+
+
+
+
+
