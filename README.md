@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hola, soy `Paul Lugo` 👋</h1>
+  <h1 align="center">Hola, soy <code>Paul Lugo</code> 👋</h1>
 </div>
 
 ![pau](https://github.com/Spiderpaul/Spiderpaul/assets/87204262/a5d79128-2fdb-4525-b79f-971aa4932e38)
